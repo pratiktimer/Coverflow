@@ -1,18 +1,12 @@
 # Coverflow
-=======
-# coverflow
-
 A Coverflow plugin implementation
-### Show some :heart: and star the repo to support the project
-
-
-## Facebook
-
-[Prateek Timer](https://www.facebook.com/pbanawalkar)
-
-
 # Screenshots
  <img height="480px" src="imagesfirst.png">  <img height="480px" src="images/simple_coverflow.png">
+
+
+### Show some :heart: and star the repo to support the project
+## Facebook
+[Prateek Timer](https://www.facebook.com/pbanawalkar)
 ### LICENSE & COPYRIGHT
 Copyright 2018 Pratik Banawalkar
 
