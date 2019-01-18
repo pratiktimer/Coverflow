@@ -5,6 +5,7 @@ A Coverflow plugin implementation
 
 
 ### Show some :heart: and star the repo to support the project
+###Photos By Pexels <a href="https://www.pexels.com/">Visit Pexels</a>
 ## Facebook
 [Prateek Timer](https://www.facebook.com/pbanawalkar)
 ### LICENSE & COPYRIGHT
