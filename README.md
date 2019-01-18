@@ -1,7 +1,7 @@
 # Coverflow
 A Coverflow plugin implementation
 # Screenshots
- <img height="480px" src="imagesfirst.png">  <img height="480px" src="images/simple_coverflow.png">
+ <img height="480px" src="images/first.png">  <img height="480px" src="images/simple_coverflow.png">
 
 
 ### Show some :heart: and star the repo to support the project
